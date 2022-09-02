@@ -1,0 +1,4 @@
+1、画墙函数以及按键函数	 ---> Draw.c/Draw.h
+2、游戏开始界面显示 ---->lcd.c/lcd.h   --->bmp.c/bmp.h
+3、触摸屏函数          ------>touch.c/touch.h
+4、游戏初始化以及游戏结束函数		---->	game.c/game.h
