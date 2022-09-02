@@ -309,10 +309,10 @@ void start_game()
 	while(1)
 	{
 		key_down();
-		/*if(game_over() == 0)
+		if(game_over() == 0)
 		{
 			break;
-		}*/
+		}
 		cread_food();
 		//sleep(1);
 	}
